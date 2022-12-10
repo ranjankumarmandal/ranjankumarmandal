@@ -5,7 +5,8 @@ Most of my open-source 🚀 projects below 👇🏻 are focused on one thing - t
 - Frontend - JavaScript, TypeScript, React, Redux, RxJS, HTML5, CSS3, frontend libraries, frameworks 
 - Backend - Java, SpringBoot, Hibernate 
 - Database - MongoDB, MySql
-- Cloud - AWS, Firebase, etc.
+- Cloud - AWS, Firebase
+- System Design (LLD, HLD), etc.
 
 I also write 📝 articles about life, web-development and machine learning.
 
