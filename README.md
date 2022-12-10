@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
+I'm Ranjan Kumar Mandal. I work as a software engineer at Sling Media (Dish Network). In my spare time I do open-sourcing (normally it is about 1-2 hours before / after work).
 
-<!--
-**ranjankumarmandal/ranjankumarmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my open-source 🚀 projects below 👇🏻 are focused on one thing - to help people learn 📚. You may use these projects to learn about algorithms in JavaScript, TypeScript, Java and get prepared for technical skills, or to learn full stack development specially when it comes to Frontend - JavaScript, TypeScript, React, Redux, RxJS, HTML5, CSS3, frontend libraries, frameworks, backend - Java, SpringBoot, Hibernate, DB - MongoDB, MySql, cloud - aws, firebase, etc.
 
-Here are some ideas to get you started:
+I also write 📝 articles about life, web-development and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks!
+
+### Getting in touch
+- Twitter: [ranjankumarmandal](https://twitter.com/Ranjan_ok)
+- LinkedIn: [ranjankumarmandal] (https://www.linkedin.com/in/ranjan-kumar-m-818367158/)
+- GitHub: [ranjankumarmandal] (https://github.com/ranjankumarmandal)
