@@ -12,6 +12,6 @@ I also write 📝 articles about life, web-development and machine learning.
 Thanks!
 
 ### Getting in touch
-- Twitter: [ranjankumarmandal](https://twitter.com/Ranjan_ok)
 - LinkedIn: [ranjankumarmandal](https://www.linkedin.com/in/ranjan-kumar-m-818367158/)
 - GitHub: [ranjankumarmandal](https://github.com/ranjankumarmandal)
+- Twitter: [ranjankumarmandal](https://twitter.com/Ranjan_ok)
