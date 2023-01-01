@@ -8,7 +8,7 @@ Most of my open-source 🚀 projects below 👇🏻 are focused on one thing - t
 - Cloud - AWS, Firebase
 - System Design (LLD, HLD), etc.
 
-I also write 📝 articles about life, web-development and machine learning.
+I also write 📝 articles and love to talk about life, web-development and machine learning.
 
 Thanks!
 
