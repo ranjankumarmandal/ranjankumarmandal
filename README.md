@@ -29,5 +29,5 @@ Ranchi University, India: Bachelor of Technology (B.Tech. - Computer Science & E
 
 • [Portfolio](https://ranjankumarmandal.github.io/)<br>
 • [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-m-818367158/)<br>
-• [GitHub](https://github.com/ranjankumarmandal/ranjankumarmandal)<br>
+• [GitHub](https://github.com/ranjankumarmandal/)<br>
 • [Leetcode](https://leetcode.com/u/ranjankumarmandal/)<br>
