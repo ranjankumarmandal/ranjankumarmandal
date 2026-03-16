@@ -26,7 +26,6 @@ Distributed Full Stack, Git, Jira, NPM, Yarn, GraphQL, JUnit, Zookeeper, Postman
 
 ### Contact
 
-• [Email](ranjancit2k15cse@gmail.com)
 • [Portfolio](https://ranjankumarmandal.github.io/)
 • [LinkedIn](https://www.linkedin.com/in/ranjan-kumar-m-818367158/)
 • [GitHub](https://github.com/ranjankumarmandal/ranjankumarmandal)
