@@ -8,7 +8,7 @@ I’m currently working with Lowe's India. (Previously worked with - Altimetrik,
 
 Frontend Dev: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, Figma, Micro Frontend<br>
 Backend Dev: Java, Maven, Gradle, Spring Boot, JPA, Security, Hibernate, WebFlux, OAuth 2, JSP, Kafka, NiFi, Microservices, LLM<br>
-DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP, On Prem<br>
+DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP<br>
 Other: Distributed Full Stack, Git, Jira, NPM, Yarn, GraphQL, JUnit, Zookeeper, Postman, CI/CD, Python, GitLab, GitHub
 
 ### 🧠 Engineering Interests
@@ -24,7 +24,7 @@ Other: Distributed Full Stack, Git, Jira, NPM, Yarn, GraphQL, JUnit, Zookeeper, 
 ### Education
 
 Liverpool John Moores University (LJMU), England, United Kingdom: Master of Science (MS - Computer Science) - [WES Report](https://badges.wes.org/Evidence?i=9787a7fe-a07c-4c55-9fe3-4c56c2e5c30d&type=ca)<br>
-International Institute of Information Technology (IIIT Bangalore), Bangalore, India: Post Graduate Program (PGP - Software Development)<br>
+International Institute of Information Technology (IIIT Bangalore), Bangalore, India: Post Graduate Program (PGP - SDE)<br>
 Ranchi University, India: Bachelor of Technology (B.Tech. - Computer Science & Engineering)<br>
 
 ### Contact
