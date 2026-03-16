@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Ranjan Kumar Mandal
 
-Seasoned Software Development Engineer with a master’s degree in Computer Science and 6+ years of experience in software development, cloud technologies, and AI. Seeking full-time opportunities as a Software Engineer where I can contribute to building scalable, high-impact solutions.
-
-I’m currently working with Lowe's India. (Previously worked with - Altimetrik, Walmart Global Tech, Dish Network, Congnizant).
+Seasoned Software Development Engineer with a master’s degree in Computer Science and 6+ years of experience in software development, cloud technologies, and AI. 
 
 ### Skills
 
@@ -13,13 +11,13 @@ Other: Distributed Full Stack, Git, Jira, NPM, Yarn, GraphQL, JUnit, Zookeeper, 
 
 ### 🧠 Engineering Interests
 
-• Distributed System Design
-• Microservices Architecture
-• Event-Driven Systems
-• Cloud Native Development
-• High Performance Web Applications
-• AI / LLM Integration
-• Quantum Deep Learning
+• Distributed System Design<br>
+• Microservices Architecture<br>
+• Event-Driven Systems<br>
+• Cloud Native Development<br>
+• High Performance Web Applications<br>
+• AI / LLM Integration<br>
+• Quantum Deep Learning<br>
 
 ### Education
 
