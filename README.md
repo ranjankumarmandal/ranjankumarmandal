@@ -4,10 +4,11 @@ Seasoned Software Development Engineer with a master’s degree in Computer Scie
 
 ### Skills
 
-Frontend Dev: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, Figma, Micro Frontend<br>
-Backend Dev: Java, Maven, Gradle, Spring Boot, JPA, Security, Hibernate, WebFlux, OAuth 2, JSP, Kafka, NiFi, Microservices, LLM<br>
-DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP<br>
-Other: Distributed Full Stack, Git, Jira, NPM, Yarn, GraphQL, JUnit, Zookeeper, Postman, CI/CD, Python, GitLab, GitHub
+ • Frontend Dev: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, NPM, Yarn, Figma
+ • Backend Dev: Java, Maven, Spring Boot, JPA, Security, Hibernate, WebFlux, OAuth 2.0, JWT, REST, Jenkins, Microservices
+ • DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP
+ • Backend Data Engineering & AI: Apache Spark, Apache NiFi, ETL, Kafka, Concurrency, Python, PySpark, RAG basics, LLM
+ • Other: Distributed Full Stack, Git, Jira, GraphQL, API, JSP, JUnit, Zookeeper, Postman, CI/CD, GitLab, GitHub, Docker, K8S
 
 ### 🧠 Engineering Interests
 
