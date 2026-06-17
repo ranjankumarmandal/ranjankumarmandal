@@ -7,8 +7,8 @@ Seasoned Software Development Engineer with a master’s degree in Computer Scie
  • Frontend Dev: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, NPM, Yarn, Figma <br>
  • Backend Dev: Java, Maven, Spring Boot, JPA, Security, Hibernate, WebFlux, OAuth 2.0, JWT, REST, Jenkins, Microservices <br>
  • DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP <br>
- • Data Engineering & MLE: Apache Spark, Apache NiFi, ETL, Kafka, Concurrency, PySpark, LoRA, MoE, Scikit-Learn, LLM <br>
- • AI: Python, FastAPI, Deep Learning, KNN, RNN, Hugging Face, Pytorch, Transformer models, Architecture, RAG Design <br>
+ • Data Engineering & MLE: Apache Spark, Apache NiFi, ETL, Kafka, Concurrency, PySpark, LoRA, MoE, Scikit-Learn <br>
+ • AI: Python, FastAPI, Deep Learning, KNN, RNN, Hugging Face, Pytorch, Transformer models, LLM, RAG, AI Agents, MCP <br>
  • Other: Distributed Full Stack, Git, Jira, GraphQL, API, JUnit, Zookeeper, Postman, CI/CD, Elk, grafana, GitHub, Docker, K8S <br>
 
 ### 🧠 Engineering Interests
