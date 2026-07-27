@@ -4,12 +4,12 @@ Seasoned Software Development Engineer with a master’s degree in Computer Scie
 
 ### Skills
 
- • Frontend Dev: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, NPM, Yarn, Figma <br>
- • Backend Dev: Java, Maven, Spring Boot, JPA, Security, Hibernate, WebFlux, OAuth 2.0, JWT, REST, Jenkins, Microservices <br>
- • DB & Clouds: RDBMS, MySQL, PostgreSQL, DB2, Oracle, Azure SQL, NoSQL, Radis, MongoDB, Cosmos, AWS, Azure, GCP <br>
- • Data Engineering & MLE: Apache Spark, Apache NiFi, ETL, Kafka, Concurrency, PySpark, LoRA, MoE, Scikit-Learn <br>
- • AI: Python, FastAPI, Deep Learning, KNN, RNN, Hugging Face, Pytorch, Transformer models, LLM, RAG, AI Agents, MCP <br>
- • Other: Distributed Full Stack, Git, Jira, GraphQL, API, JUnit, Zookeeper, Postman, CI/CD, Elk, grafana, GitHub, Docker, K8S <br>
+ • Backend: Java, Spring Boot, Security, JPA, Hibernate, WebFlux, OAuth 2.0, JWT, REST, gRPC, JUnit, Nginx, Microservices <br>
+ • Frontend: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, NPM, Yarn, Figma <br>
+ • AI: Python, FastAPI, PyTorch, Hugging Face, Transformers, LoRA, Sklearn, LLM, RAG, AI Agents, MCP <br>
+ • Data Engineering: Apache Spark, PySpark, Apache NiFi, Flink, Kafka, ETL, Concurrency <br>
+ • DB & Clouds:  RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
+ • Other: Distributed Full Stack, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
 
 ### 🧠 Engineering Interests
 
