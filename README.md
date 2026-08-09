@@ -1,15 +1,14 @@
 ## Hi there 👋 I'm Ranjan Kumar Mandal
 
-Seasoned Software Development Engineer with a master’s degree in Computer Science and 6+ years of experience in software development, cloud technologies, and AI. 
+Software Development Engineer with 7+ years of experience building scalable, cloud-native software solutions, with expertise in Java backend development, full-stack engineering, cloud technologies, and AI. Master’s degree in Computer Science with a strong focus on designing robust systems and solving complex engineering problems. 
 
 ### Skills
 
  • Backend: Java, Spring Boot, Security, JPA, Hibernate, WebFlux, OAuth 2.0, JWT, REST, gRPC, JUnit, Nginx, Microservices <br>
- • Frontend: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, RxJS, Webpack, Babel, Node, NPM, Yarn, Figma <br>
- • AI: Python, FastAPI, PyTorch, Hugging Face, Transformers, LoRA, Sklearn, LLM, RAG, AI Agents, MCP <br>
- • Data Engineering: Apache Spark, PySpark, Apache NiFi, Flink, Kafka, ETL, Concurrency <br>
- • DB & Clouds:  RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
- • Other: Distributed Full Stack, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
+ • Frontend: JavaScript, React, Redux, RxJS, Node, Figma <br>
+ • Data Engineering & AI: Apache NiFi, Flink, Airflow, PySpark, Kafka, Python, LLM, RAG, AI Agents, MCP <br>
+ • DB & Clouds: RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
+ • Other: Distributed Systems, API, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
 
 ### 🧠 Engineering Interests
 
