@@ -5,9 +5,9 @@ Software Development Engineer with 7+ years of experience building scalable, clo
 ### Skills
 
  • Backend: Java, Spring Boot, Security, JPA, Hibernate, WebFlux, OAuth 2.0, JWT, REST, gRPC, JUnit, Nginx, Microservices <br>
- • Frontend: JavaScript, React, Redux, RxJS, Node, Figma <br>
  • Data Engineering & AI: Apache NiFi, Flink, Airflow, PySpark, Kafka, Python, LLM, RAG, AI Agents, MCP <br>
  • DB & Clouds: RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
+ • Full Stack: JavaScript, React, Redux, RxJS, Node, Figma <br>
  • Other: Distributed Systems, API, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
 
 ### 🧠 Engineering Interests
