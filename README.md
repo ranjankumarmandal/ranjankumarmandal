@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ranjan Kumar Mandal
 
-Software Development Engineer with 7+ years of experience building scalable, cloud-native software solutions, with expertise in Java backend development, full-stack engineering, cloud technologies, and AI. Master’s degree in Computer Science with a strong focus on designing robust systems and solving complex engineering problems. 
+Senior Software Development Engineer with 7+ years of experience building scalable, cloud-native software solutions, with expertise in Java backend development, full-stack engineering, cloud technologies, and AI. Master’s degree in Computer Science with a strong focus on designing robust systems and solving complex engineering problems. 
 
 ### Skills
 
