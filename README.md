@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ranjan Kumar Mandal
 
-Senior Software Development Engineer with 7+ years of experience building scalable, cloud-native software solutions, with expertise in Java backend development, full-stack engineering, cloud technologies, and AI. Master’s degree in Computer Science with a strong focus on designing robust systems and solving complex engineering problems. 
+Senior Software Engineer with 7+ years of experience designing and building scalable, cloud-native distributed systems, specializing in Java, microservices, cloud platforms, and AI-driven solutions. Master’s degree in Computer Science with strong expertise in system design, backend engineering, and building reliable, high-performance software at scale. 
 
 ### Skills
 
@@ -8,7 +8,7 @@ Senior Software Development Engineer with 7+ years of experience building scalab
  • Data Engineering & AI: Apache NiFi, Flink, Airflow, PySpark, Kafka, Python, LLM, RAG, AI Agents, MCP <br>
  • DB & Clouds: RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
  • Full Stack: JavaScript, React, Redux, RxJS, Node, Figma <br>
- • Other: Distributed Systems, API, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
+ • Other: Distributed Systems, API, System Design, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
 
 ### 🧠 Engineering Interests
 
