@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ranjan Kumar Mandal
 
-
+Senior Software Engineer with 7+ years of experience designing and building scalable, cloud-native distributed systems, specializing in Java, microservices, cloud platforms, and AI-driven solutions. Master’s degree in Computer Science with strong expertise in system design, backend engineering, and building reliable, high-performance software at scale. 
 
 ### Skills
 
