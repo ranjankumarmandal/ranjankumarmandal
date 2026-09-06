@@ -12,7 +12,8 @@ Senior Software Engineer with 7+ years of experience designing and building scal
 
 ### 🧠 Engineering Interests
 
-• Distributed System Design<br>
+• Backend Engineering<br>
+• Distributed System<br>
 • Microservices Architecture<br>
 • Event-Driven Systems<br>
 • Cloud Native Development<br>
