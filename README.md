@@ -4,11 +4,11 @@ Senior Software Engineer with 7+ years of experience designing and building scal
 
 ### Skills
 
- • Backend: Java, Spring Boot, Security, JPA, Hibernate, WebFlux, OAuth 2.0, JWT, REST, gRPC, JUnit, Nginx, Microservices <br>
- • Data Engineering & AI: Apache NiFi, Flink, Airflow, PySpark, Kafka, Python, LLM, RAG, AI Agents, MCP <br>
- • DB & Clouds: RDBMS, PostgreSQL, MySQL, DB2, Azure SQL, NoSQL, Redis, MongoDB, Cassandra, AWS, Azure, GCP <br>
- • Full Stack: JavaScript, React, Redux, RxJS, Node, Figma <br>
- • Other: Distributed Systems, API, System Design, Maven, Gradle, Git, Jira, GraphQL, Postman, CI/CD, ELK, Grafana, GitHub, Docker, K8S <br>
+ • Backend & Distributed Systems: Java, Spring Boot, Spring Security, Microservices, WebFlux, JPA, Hibernate, REST, gRPC, OAuth 2.0, JWT, Kafka, JUnit <br>
+ • Data Engineering & AI: Python, Apache NiFi, Flink, Spark, PySpark, Airflow, LLMs, RAG, AI Agents, MCP <br>
+ • Databases & Cloud: PostgreSQL, MySQL, DB2, Azure SQL, MongoDB, Cassandra, NoSQL, Redis, AWS, Azure, GCP <br>
+ • System Design & Engineering: Data Structures & Algorithms, Distributed Systems, HLD, LLD, Object-Oriented Design, Design Patterns, API Design, CI/CD, Docker, Kubernetes, Nginx <br>
+ • Development & Observability: GraphQL, Git, GitHub, Maven, Gradle, Postman, ELK, Grafana, Jira <br>
 
 ### 🧠 Engineering Interests
 
